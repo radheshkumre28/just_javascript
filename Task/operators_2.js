@@ -19,4 +19,14 @@ console.log("Greater than 20:",num1>num2)
 console.log("Less than 20:",num1<num2)
 console.log("Greaterthan or Equal to 20:", num1>=20)
 console.log("Lessthan or Equal to 20:", num1<=20)
-console.log()
+console.log("Equal to 20:",num1==num2)
+console.log("type are equal:",num1===num2)
+
+//Activity 4
+console.log("AND operator:",true && false)
+console.log("OR operator:", true || false)
+console.log("NOT operator:",!true)
+
+//Activity 5
+let neg = -264
+console.log('Ternary operator result:',neg<0?`Negative number`:'Positive number')
