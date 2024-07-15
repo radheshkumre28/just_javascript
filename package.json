@@ -1,0 +1,11 @@
+{
+  "name": "just_javascript",
+  "version": "1.0.0",
+  "description": "30 days javascript challenge by chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
